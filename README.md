@@ -1,8 +1,8 @@
 # 🚀 AI Resume Analyzer
 
-A modern AI-powered Resume Analyzer web application built using Flask, Python, and OpenAI integration.  
+A modern AI-powered Resume Analyzer web application built using Flask, Python, and Google Gemini integration.
 
-This project analyzes resumes against job descriptions and generates intelligent feedback, matching insights, and improvement suggestions using prompt engineering and Large Language Model (LLM) integration.
+This project analyzes resumes against job descriptions and generates intelligent feedback, matching insights, and improvement suggestions using Prompt Engineering and Large Language Model (LLM) integration.
 
 The application is designed with a modern AI startup-style user interface and deployed publicly on Render.
 
@@ -10,14 +10,14 @@ The application is designed with a modern AI startup-style user interface and de
 
 # 🌐 Live Demo
 
-🔗 https://resume-analyzer-1-h70l.onrender.com
+🔗 https://your-render-link.onrender.com
 
 ---
 
 # 📌 Features
 
 ✅ Resume vs Job Description Analysis  
-✅ OpenAI LLM Integration  
+✅ Google Gemini LLM Integration  
 ✅ Prompt Engineering Support  
 ✅ Modern AI Startup UI  
 ✅ Flask Backend Architecture  
@@ -42,7 +42,7 @@ The application is designed with a modern AI startup-style user interface and de
 - Flask
 
 ## GenAI / AI
-- OpenAI API
+- Google Gemini API
 - Prompt Engineering
 
 ## Deployment & DevOps
@@ -62,7 +62,6 @@ AI_Resume_Project/
 ├── genai.py
 ├── requirements.txt
 ├── Procfile
-├── runtime.txt
 ├── README.md
 │
 ├── static/
