@@ -10,7 +10,7 @@ The application is designed with a modern AI startup-style user interface and de
 
 # 🌐 Live Demo
 
-🔗 https://your-render-link.onrender.com
+🔗 https://resume-analyzer-1-h70l.onrender.com
 
 ---
 
@@ -58,7 +58,7 @@ The application is designed with a modern AI startup-style user interface and de
 ```bash
 AI_Resume_Project/
 │
-├── app.py
+├── webapp.py
 ├── genai.py
 ├── requirements.txt
 ├── Procfile
